@@ -1,0 +1,22 @@
+#continer{
+    height: 400px;
+    width: 400px;
+    border: 2px solid seagreen;
+    border-radius: 10px;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: white;
+
+
+}
+.box {
+    height: 100px;
+    width:100px;
+    background-color: grey;
+    border-radius: 10px;
+    font-size: 50px;
+    text-align: center;
+}
+
