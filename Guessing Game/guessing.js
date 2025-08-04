@@ -9,7 +9,7 @@ if(guess=="quit"){
     break;
 }
 if(guess==randomnumber){
-    console.log("Congratulations! You guessed the number correctly.",ramdomnumber);
+    console.log("Congratulations! You guessed the number correctly.",randomnumber);
     break;
 }
 else if(guess<randomnumber){
